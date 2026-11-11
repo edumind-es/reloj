@@ -1,0 +1,33 @@
+EDUmind - Reloj EDUmind (reloj.edumind.es)
+Copyright (C) 2024-2026 Luis Vilela Acuña <contacto@edumind.es>
+
+Este programa es software libre: puede redistribuirlo y/o modificarlo
+bajo los términos, a su elección, de la Licencia Pública General Affero
+de GNU, versión 3 o cualquier versión posterior (AGPL-3.0-or-later), o de
+la Licencia Pública de la Unión Europea, versión 1.2 (EUPL-1.2).
+Ver LICENSE, LICENSE-AGPL-3.0-or-later.txt y LICENSE-EUPL-1.2.txt.
+
+Este programa se distribuye con la esperanza de que sea útil,
+pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implícita de
+COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la
+Licencia Pública General Affero de GNU para obtener más detalles.
+
+Debería haber recibido una copia de ambas licencias junto con este programa.
+Si no es así, consulte <https://www.gnu.org/licenses/> y
+<https://joinup.ec.europa.eu/collection/eupl>.
+
+Fuentes tipográficas de public/fuentes/: SIL Open Font License 1.1
+(ficheros OFL-*.txt en esa carpeta).
+
+---
+
+REGISTRO DE PROPIEDAD INTELECTUAL:
+Safe Creative Code: PENDIENTE_REGISTRO
+Fecha de Registro: 2026-11-11
+Certificado: /legal/registros/safe_creative/PENDIENTE_REGISTRO.pdf
+Titular: Luis Vilela Acuña <contacto@edumind.es>
+
+VERIFICACIÓN DE AUTENTICIDAD:
+El software oficial de EDUmind siempre está firmado.
+Verifique la firma GPG y los checksums antes de instalar.
+GPG Signature: releases@edumind.es
