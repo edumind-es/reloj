@@ -3,7 +3,7 @@
 // Nunca toca peticiones de otros orígenes (no hay ninguna) ni guarda datos.
 // Al cambiar cualquier fichero, subir VERSION: la prueba sw.test.js lo vigila.
 
-const VERSION = 'reloj-v0.1.0-1';
+const VERSION = 'reloj-v0.1.0-2';
 const FICHEROS = [
   './',
   'index.html',

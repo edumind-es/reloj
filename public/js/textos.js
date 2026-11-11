@@ -87,7 +87,7 @@ const es = {
   borrar_todo_confirmar: '¿Borrar todos los datos de la app en este dispositivo? No se puede deshacer.',
   importado: 'Fichero abierto: {p} planes y {n} sesiones.',
   error_tamano: 'El fichero es demasiado grande.', error_formato: 'Ese fichero no es de Reloj EDUmind.', error_version: 'El fichero es de otra versión de la app.',
-  pie_licencia: 'Software libre AGPL-3.0 / EUPL-1.2', pie_local: 'Sin servidor · tus datos no salen de aquí',
+  pie_licencia: 'Software libre AGPL-3.0 / EUPL-1.2', pie_codigo: 'Código fuente', pie_local: 'Sin servidor · tus datos no salen de aquí',
   actualizar: 'Hay una versión nueva: actualizar',
 };
 
@@ -172,7 +172,7 @@ const gl = {
   borrar_todo_confirmar: 'Borrar todos os datos da app neste dispositivo? Non se pode desfacer.',
   importado: 'Ficheiro aberto: {p} plans e {n} sesións.',
   error_tamano: 'O ficheiro é demasiado grande.', error_formato: 'Ese ficheiro non é de Reloxo EDUmind.', error_version: 'O ficheiro é doutra versión da app.',
-  pie_licencia: 'Software libre AGPL-3.0 / EUPL-1.2', pie_local: 'Sen servidor · os teus datos non saen de aquí',
+  pie_licencia: 'Software libre AGPL-3.0 / EUPL-1.2', pie_codigo: 'Código fonte', pie_local: 'Sen servidor · os teus datos non saen de aquí',
   actualizar: 'Hai unha versión nova: actualizar',
 };
 
@@ -257,7 +257,7 @@ const en = {
   borrar_todo_confirmar: 'Delete all the app data on this device? This cannot be undone.',
   importado: 'File opened: {p} plans and {n} sessions.',
   error_tamano: 'The file is too large.', error_formato: 'That file is not from EDUmind Clock.', error_version: 'The file is from another version of the app.',
-  pie_licencia: 'Free software AGPL-3.0 / EUPL-1.2', pie_local: 'No server · your data stays here',
+  pie_licencia: 'Free software AGPL-3.0 / EUPL-1.2', pie_codigo: 'Source code', pie_local: 'No server · your data stays here',
   actualizar: 'A new version is ready: update',
 };
 

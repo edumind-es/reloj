@@ -249,6 +249,7 @@ function pintarPie() {
     h('span', { class: 'pie-marca', text: 'EDUMIND® · LUIS VILELA ACUÑA' }),
     h('span', { text: t('pie_licencia') }),
     h('span', { text: t('pie_local') }),
+    h('a', { href: 'https://github.com/edumind-es/reloj', rel: 'noopener', text: t('pie_codigo') }),
     hayActualizacion ? boton('reiniciar', t('actualizar'), aplicarActualizacion, { clase: 'btn-actualizar' }) : null].filter(Boolean));
 }
 

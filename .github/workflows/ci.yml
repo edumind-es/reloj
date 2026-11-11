@@ -1,0 +1,19 @@
+# Integración continua: pasa las pruebas (motor, saneado, textos, service
+# worker y CSP). Nunca despliega: reloj.edumind.es se publica desde el servidor.
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Pruebas
+        run: npm test
