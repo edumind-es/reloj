@@ -1,0 +1,13 @@
+{
+  "name": "@edumind/reloj",
+  "version": "0.1.0",
+  "description": "Temporizadores para el aula, los grupos y el estudio autónomo. PWA local first, sin servidor.",
+  "private": true,
+  "type": "module",
+  "license": "(AGPL-3.0-or-later OR EUPL-1.2)",
+  "author": "Luis Vilela Acuña",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=22" }
+}
